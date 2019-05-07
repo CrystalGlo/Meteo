@@ -1,0 +1,41 @@
+/*
+Auteur : Houimli, Safa
+Date de création : 13 septembre 2018
+Description : Fichier style.css qui contient le style de toutes les pages du tp1
+*/
+body{
+	text-align:center;
+}
+
+footer {
+	text-align: left;
+}
+
+#title {
+    color: blue;
+    text-align: center;
+}
+
+#current_date {
+    color: red;
+    text-align: center;
+}
+
+form {
+	display:inline-table;
+}
+
+#nom_vil {
+    color: green;
+    position: center;
+    font-style: italic;
+}
+
+#tbl_meteo {
+	display:inline-table;
+}
+
+td {
+    text-align: center;
+}
+
